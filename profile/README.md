@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://walterredbooks.com/wp-content/uploads/2026/10/728185A2-8C53-4A90-B5A9-77C7A8DC3CFD.jpeg" alt="Catalyst Welcome" width="500" height="300"> 
+  <img src="https://walterredbooks.com/wp-content/uploads/2026/10/728185A2-8C53-4A90-B5A9-77C7A8DC3CFD.jpeg" alt="Catalyst Welcome" width="500" height="500"> 
 
 # ▲ CATALYST RESEARCH GROUP
 
